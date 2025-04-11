@@ -3,7 +3,7 @@
 <html lang="pt">
 <head>
   <meta charset="UTF-8">
-  <title>Meus PDFs</title>
+  <title>PDFs GEA</title>
 </head>
 <body>
   <h1>Lista de PDFs</h1>
